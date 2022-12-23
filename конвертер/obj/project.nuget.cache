@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WXFxcaXM5kF/5Zo3y5GnIMEFNYxBFvYFFqZ1E+eGUQt0EweQbj6Us1bJtmreSd0R5ISpbxcogzzrEvv1c81Vaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tenru\\OneDrive\\Рабочий стол\\C#\\конвертер\\конвертер\\конвертер.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tenru\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

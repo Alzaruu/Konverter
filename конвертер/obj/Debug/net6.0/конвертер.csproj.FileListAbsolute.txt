@@ -1,0 +1,5 @@
+C:\Users\Tenru\OneDrive\Рабочий стол\C#\конвертер\конвертер\obj\Debug\net6.0\конвертер.csproj.AssemblyReference.cache
+C:\Users\Tenru\OneDrive\Рабочий стол\C#\конвертер\конвертер\obj\Debug\net6.0\конвертер.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tenru\OneDrive\Рабочий стол\C#\конвертер\конвертер\obj\Debug\net6.0\конвертер.AssemblyInfoInputs.cache
+C:\Users\Tenru\OneDrive\Рабочий стол\C#\конвертер\конвертер\obj\Debug\net6.0\конвертер.AssemblyInfo.cs
+C:\Users\Tenru\OneDrive\Рабочий стол\C#\конвертер\конвертер\obj\Debug\net6.0\конвертер.csproj.CoreCompileInputs.cache
